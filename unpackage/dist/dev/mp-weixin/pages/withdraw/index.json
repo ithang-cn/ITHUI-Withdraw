@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "余额提现",
+  "usingComponents": {
+    "u-modal": "/node-modules/uview-ui/components/u-modal/u-modal"
+  }
+}

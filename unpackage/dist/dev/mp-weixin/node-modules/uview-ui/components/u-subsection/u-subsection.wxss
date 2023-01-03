@@ -1,0 +1,86 @@
+view.data-v-244377f2, scroll-view.data-v-244377f2, swiper-item.data-v-244377f2 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.u-subsection.data-v-244377f2 {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  box-sizing: border-box;
+}
+.u-subsection--button.data-v-244377f2 {
+  height: 32px;
+  background-color: #eeeeef;
+  padding: 3px;
+  border-radius: 3px;
+  align-items: stretch;
+}
+.u-subsection--button__bar.data-v-244377f2 {
+  background-color: #ffffff;
+  border-radius: 3px !important;
+}
+.u-subsection--subsection.data-v-244377f2 {
+  height: 30px;
+}
+.u-subsection__bar.data-v-244377f2 {
+  position: absolute;
+  transition-property: color, -webkit-transform;
+  transition-property: transform, color;
+  transition-property: transform, color, -webkit-transform;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in-out;
+}
+.u-subsection__bar--first.data-v-244377f2 {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.u-subsection__bar--center.data-v-244377f2 {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.u-subsection__bar--last.data-v-244377f2 {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.u-subsection__item.data-v-244377f2 {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.u-subsection__item--no-border-right.data-v-244377f2 {
+  border-right-width: 0 !important;
+}
+.u-subsection__item--first.data-v-244377f2 {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.u-subsection__item--last.data-v-244377f2 {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.u-subsection__item__text.data-v-244377f2 {
+  font-size: 12px;
+  line-height: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  transition-property: color;
+  transition-duration: 0.3s;
+}
+

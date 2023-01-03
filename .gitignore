@@ -1,0 +1,6 @@
+/.git/*
+/.vscode/*
+/node_modules/*
+/dist/*
+push_gitee.sh
+push_github.sh

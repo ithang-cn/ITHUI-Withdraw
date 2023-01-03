@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "我的余额",
+  "usingComponents": {
+    "u-modal": "/node-modules/uview-ui/components/u-modal/u-modal",
+    "u-subsection": "/node-modules/uview-ui/components/u-subsection/u-subsection",
+    "u-empty": "/node-modules/uview-ui/components/u-empty/u-empty"
+  }
+}
