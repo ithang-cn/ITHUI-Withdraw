@@ -1,21 +1,19 @@
-<div align="center">
+ITHUI-Withdraw 余额收益、提现页面（原HDesign-Money）
+===============
 
-![logo](./static/ithang/logo.png)
-
+<p align="center">
+    <img alt="logo" src="https://static.ithang.cn/ITHUI/logo.png" width="240" height="240" style="margin-bottom: 10px;">
+</p>
 [![star](https://gitee.com/ithang-cn/ITHUI-Withdraw/badge/star.svg?theme=gvp)](https://gitee.com/ithang-cn/ITHUI-Withdraw/stargazers)
 [![fork](https://gitee.com/ithang-cn/ITHUI-Withdraw/badge/fork.svg?theme=gvp)](https://gitee.com/ithang-cn/ITHUI-Withdraw/members)
 [![stars](https://img.shields.io/github/stars/ithang-cn/ITHUI-Withdraw?style=flat-square&logo=GitHub)](https://github.com/ithang-cn/ITHUI-Withdraw)
 [![forks](https://img.shields.io/github/forks/ithang-cn/ITHUI-Withdraw?style=flat-square&logo=GitHub)](https://github.com/ithang-cn/ITHUI-Withdraw)
 [![License](https://static.ithang.cn/ITHUI/license-Apache2.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-</div>
-
-ITHUI-Withdraw 余额信息、提现页面
-===============
 
 ## 介绍
 
-* ITHUI-Withdraw适用于余额管理、提现页面，兼容小程序、APP、H5，兼容H5、小程序、APP。
+* ITHUI-Withdraw 适用于余额收益管理、提现页面，兼容小程序、APP、H5。
 
 ## 版本
 
@@ -23,8 +21,8 @@ v1.0.0
 
 ## 特性
 
-* ITHUI采用`uniapp`制作，基于`uView 2.x`组件，兼容H5、小程序、APP；
-* 目前仅测试了H5、APP、微信小程序、QQ小程序。
+* ITHUI采用`uniapp`制作，基于`uView 2.x`组件，兼容小程序、APP、H5；
+* 目前仅测试了APP、微信小程序、QQ小程序、H5。
 
 ## 链接
 - [Github](https://github.com/ithang-cn/)
@@ -35,12 +33,10 @@ v1.0.0
 <figure class="half">
     <img src="https://static.ithang.cn/ITHUI/ITHUI-Withdraw/001.jpg" width="200"/>
     <img src="https://static.ithang.cn/ITHUI/ITHUI-Withdraw/002.jpg" width="200"/>
-</figure>
-<figure class="half">
     <img src="https://static.ithang.cn/ITHUI/ITHUI-Withdraw/003.jpg" width="200"/>
-    <img src="https://static.ithang.cn/ITHUI/ITHUI-Withdraw/004.jpg" width="200"/>
 </figure>
 <figure class="half">
+    <img src="https://static.ithang.cn/ITHUI/ITHUI-Withdraw/004.jpg" width="200"/>
     <img src="https://static.ithang.cn/ITHUI/ITHUI-Withdraw/005.jpg" width="200"/>
 </figure>
 
